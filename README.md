@@ -166,17 +166,3 @@ python experiment_image_final.py
 - BranchyNet 통합으로 Early Exit 전략 구현 (연산량 감소 및 실시간성 강화)
 - 안개 농도별 균형 잡힌 학습 데이터 구성으로 씬 매칭 일반화 성능 개선
 
----
-
-## 인용
-
-```
-이지원, 정연수, "Fog-Aware Autonomous Driving via YOLOv5 and V2V Communication
-in CARLA Simulator," 경희대학교 캡스톤디자인, 2025.
-```
-
----
-
-## 라이선스
-
-본 프로젝트는 학술 목적으로 작성되었습니다. 저작권은 저자에게 있습니다.
