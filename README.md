@@ -1,7 +1,7 @@
-# 안개 환경 자율주행: YOLOv5 + V2V 통신 기반 CARLA 시뮬레이션
+# Scene Matching-Assisted Adaptive Control of Autonomous Vehicles in CARLA Simulator
 
-> 경희대학교 전자공학과 캡스톤디자인 (2025년 1학기)  
-> 팀 V2eXpert | 이지원 · 정연수 | 지도교수: 최민석 교수님
+> 한국통신학회 주관 ICTC 국제 학술대회 발표
+> 지도교수: 최민석 교수님
 
 ---
 
@@ -157,6 +157,7 @@ python experiment_image_final.py
 | 카메라 | 800×600 RGB, FOV 90°, 20 FPS |
 | 안개 밀도 조건 | 0, 20, 30, 40, 60, 100 |
 | V2V 프로토콜 | MQTT @ 20 Hz |
+| 개발 환경 | Linux, Docker (Unreal Engine + CARLA 빌드) |
 
 ---
 
