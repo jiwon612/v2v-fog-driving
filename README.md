@@ -1,6 +1,6 @@
 # Scene Matching-Assisted Adaptive Control of Autonomous Vehicles in CARLA Simulator
 
-> 한국통신학회 주관 ICTC 국제 학술대회 발표  
+> 한국통신학회 주관 ICTC 국제 학술대회 발표 (2025.10.15)  
 > 지도교수: 최민석 교수님
 
 ---
